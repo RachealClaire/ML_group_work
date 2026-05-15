@@ -1,0 +1,135 @@
+col
+Isolate Id
+Study
+Species
+Family
+Country
+State
+Gender
+Age Group
+Speciality
+Source
+In / Out Patient
+Year
+Phenotype
+Amikacin
+Amikacin_I
+Amoxycillin clavulanate
+Amoxycillin clavulanate_I
+Ampicillin
+Ampicillin_I
+Azithromycin
+Azithromycin_I
+Cefepime
+Cefepime_I
+Cefoxitin
+Cefoxitin_I
+Ceftazidime
+Ceftazidime_I
+Ceftriaxone
+Ceftriaxone_I
+Clarithromycin
+Clarithromycin_I
+Clindamycin
+Clindamycin_I
+Erythromycin
+Erythromycin_I
+Imipenem
+Imipenem_I
+Levofloxacin
+Levofloxacin_I
+Linezolid
+Linezolid_I
+Meropenem
+Meropenem_I
+Metronidazole
+Metronidazole_I
+Minocycline
+Minocycline_I
+Penicillin
+Penicillin_I
+Piperacillin tazobactam
+Piperacillin tazobactam_I
+Tigecycline
+Tigecycline_I
+Vancomycin
+Vancomycin_I
+Ampicillin sulbactam
+Ampicillin sulbactam_I
+Aztreonam
+Aztreonam_I
+Aztreonam avibactam
+Aztreonam avibactam_I
+Cefixime
+Cefixime_I
+Ceftaroline
+Ceftaroline_I
+Ceftaroline avibactam
+Ceftaroline avibactam_I
+Ceftazidime avibactam
+Ceftazidime avibactam_I
+Ciprofloxacin
+Ciprofloxacin_I
+Colistin
+Colistin_I
+Daptomycin
+Daptomycin_I
+Doripenem
+Doripenem_I
+Ertapenem
+Ertapenem_I
+Gatifloxacin
+Gatifloxacin_I
+Gentamicin
+Gentamicin_I
+Moxifloxacin
+Moxifloxacin_I
+Oxacillin
+Oxacillin_I
+Quinupristin dalfopristin
+Quinupristin dalfopristin_I
+Sulbactam
+Sulbactam_I
+Teicoplanin
+Teicoplanin_I
+Tetracycline
+Tetracycline_I
+Trimethoprim sulfa
+Trimethoprim sulfa_I
+Ceftolozane tazobactam
+Ceftolozane tazobactam_I
+Cefoperazone sulbactam
+Cefoperazone sulbactam_I
+Meropenem vaborbactam
+Meropenem vaborbactam_I
+Cefpodoxime
+Cefpodoxime_I
+Ceftibuten
+Ceftibuten_I
+Ceftibuten avibactam
+Ceftibuten avibactam_I
+Tebipenem
+Tebipenem_I
+AMPC
+SHV
+TEM
+CTXM1
+CTXM2
+CTXM825
+CTXM9
+VEB
+PER
+GES
+ACC
+CMY1MOX
+CMY11
+DHA
+FOX
+ACTMIR
+KPC
+OXA
+NDM
+IMP
+VIM
+SPM
+GIM

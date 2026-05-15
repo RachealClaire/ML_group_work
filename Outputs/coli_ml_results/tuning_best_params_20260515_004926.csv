@@ -1,0 +1,6 @@
+model,cv_f1_micro,best_params
+DecisionTreeClassifier,0.7920688209211928,"{""min_samples_split"": 2, ""min_samples_leaf"": 1, ""max_features"": ""sqrt"", ""max_depth"": 5}"
+ExtraTreeClassifier,0.7911886444515748,"{""min_samples_split"": 2, ""min_samples_leaf"": 2, ""max_features"": ""sqrt"", ""max_depth"": 5}"
+ExtraTreesClassifier,0.7893357898573795,"{""n_estimators"": 300, ""min_samples_split"": 2, ""max_features"": ""sqrt"", ""max_depth"": 10}"
+RandomForestClassifier,0.7900041926145871,"{""n_estimators"": 300, ""min_samples_split"": 2, ""max_features"": ""log2"", ""max_depth"": 10}"
+KNeighborsClassifier,0.7763097891483857,"{""weights"": ""uniform"", ""p"": 1, ""n_neighbors"": 15, ""metric"": ""manhattan""}"
