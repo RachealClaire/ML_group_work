@@ -1,0 +1,18 @@
+Best Model : DecisionTreeClassifier
+F1-micro   : 0.5137
+
+                      precision    recall  f1-score   support
+
+       Clindamycin_I       0.00      0.00      0.00      1984
+      Erythromycin_I       0.56      0.35      0.43      3849
+      Levofloxacin_I       0.57      0.44      0.50      3341
+       Minocycline_I       0.00      0.00      0.00       222
+        Gentamicin_I       0.00      0.00      0.00      1171
+      Moxifloxacin_I       0.56      0.38      0.45      3138
+         Oxacillin_I       0.60      0.96      0.74      4819
+Trimethoprim sulfa_I       0.00      0.00      0.00       262
+
+           micro avg       0.58      0.46      0.51     18786
+           macro avg       0.29      0.27      0.26     18786
+        weighted avg       0.46      0.46      0.44     18786
+         samples avg       0.55      0.36      0.38     18786

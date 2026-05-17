@@ -41,7 +41,7 @@ warnings.filterwarnings("ignore")
 RANDOM_STATE = 42
 np.random.seed(RANDOM_STATE)
 
-OUT_DIR   = "/home/kyomukama/Documents/MSBT/Sem2/ML/ML_group_work/Outputs/staph_ml_results22"
+OUT_DIR   = "/home/kyomukama/Documents/MSBT/Sem2/ML/ML_group_work/Outputs/coli_ml_results2"
 os.makedirs(OUT_DIR, exist_ok=True)
 TIMESTAMP = datetime.now().strftime("%Y%m%d_%H%M%S")
 
