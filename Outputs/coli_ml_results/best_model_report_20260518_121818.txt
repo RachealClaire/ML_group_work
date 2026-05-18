@@ -1,0 +1,19 @@
+Best Model : DecisionTreeClassifier
+F1-micro   : 0.7963
+
+                           precision    recall  f1-score   support
+
+               Amikacin_I       0.00      0.00      0.00       289
+Amoxycillin clavulanate_I       0.00      0.00      0.00       556
+             Ampicillin_I       0.99      1.00      0.99      2415
+               Cefepime_I       0.68      1.00      0.81      1651
+            Ceftazidime_I       0.58      0.94      0.72      1374
+           Levofloxacin_I       0.79      1.00      0.88      1918
+              Meropenem_I       0.00      0.00      0.00        45
+Piperacillin tazobactam_I       0.00      0.00      0.00       476
+            Tigecycline_I       0.00      0.00      0.00         0
+
+                micro avg       0.76      0.83      0.80      8724
+                macro avg       0.34      0.44      0.38      8724
+             weighted avg       0.67      0.83      0.73      8724
+              samples avg       0.76      0.87      0.78      8724

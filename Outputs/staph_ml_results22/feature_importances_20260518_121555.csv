@@ -1,0 +1,25 @@
+model,feature,importance
+DecisionTreeClassifier,Age Group,0.770611196638466
+DecisionTreeClassifier,In_out_patient,0.11829414792168842
+DecisionTreeClassifier,Specimen type,0.060907783181234784
+DecisionTreeClassifier,Ward,0.03253851899483131
+DecisionTreeClassifier,Year,0.01447262469565007
+DecisionTreeClassifier,Sex_Male,0.0031757285681293947
+ExtraTreeClassifier,Age Group,0.8280171459598578
+ExtraTreeClassifier,In_out_patient,0.09613443242382638
+ExtraTreeClassifier,Year,0.027440142155345626
+ExtraTreeClassifier,Ward,0.02416218696044468
+ExtraTreeClassifier,Specimen type,0.023074883517003913
+ExtraTreeClassifier,Sex_Male,0.0011712089835217143
+ExtraTreesClassifier,Age Group,0.4912699296955339
+ExtraTreesClassifier,Specimen type,0.18876082264095742
+ExtraTreesClassifier,Ward,0.1304134748854839
+ExtraTreesClassifier,Year,0.08355275179943081
+ExtraTreesClassifier,In_out_patient,0.07153756963090893
+ExtraTreesClassifier,Sex_Male,0.03446545134768494
+RandomForestClassifier,Age Group,0.41564006654379415
+RandomForestClassifier,Specimen type,0.20224913172688336
+RandomForestClassifier,Ward,0.14030797632934036
+RandomForestClassifier,Year,0.13600007688013813
+RandomForestClassifier,Sex_Male,0.05633284271747817
+RandomForestClassifier,In_out_patient,0.04946990580236593

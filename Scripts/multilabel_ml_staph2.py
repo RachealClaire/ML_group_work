@@ -5,11 +5,11 @@ Designed to be run from a Jupyter notebook via:
     %run -i multilabel_ml.py
 
 Uses the variables in the notebook namespace:
-    X_train_processed, X_test_processed  — feature matrices (DataFrame or ndarray)
-    y_train, y_test                       — label matrices   (DataFrame or ndarray)
+    X_train, X_test  — feature matrices (DataFrame)
+    y_train, y_test                       — label matrices   (DataFrame)
 
-Feature names    → inferred from X_train_processed.columns (or generic if ndarray)
-Antibiotic names → inferred from y_train.columns (or generic if ndarray)
+Feature names    → inferred from X_train.columns 
+Antibiotic names → inferred from y_train.columns 
 
 Covers:
   1. Data ingestion from notebook namespace
